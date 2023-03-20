@@ -12,7 +12,7 @@ dependencies:
   - jupyter
   - ipywidgets>=0.6.0
   - mkl
-  - simpeg
+  - simpeg=0.15
   - pyvista
   - dask 
   - pip:
